@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F36BC&height=180&section=header&text=Renata%20Melo&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
-<!--
-**rehmeloz/rehmeloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá! Eu sou a Renata Melo  
 
-Here are some ideas to get you started:
+💻 **Desenvolvedora de Software | C# & .NET**  
+🚀 Aproximadamente **2 anos de experiência** com desenvolvimento de aplicações  
+🎯 Foco em back-end, APIs e boas práticas de código  
+📚 Sempre aprendendo e evoluindo na área de tecnologia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+- 🔹 Desenvolvedora com experiência em **C# e .NET**
+- 🔹 Interesse em **arquitetura de software**, **clean code** e **boas práticas**
+- 🔹 Experiência com aplicações web, APIs REST e bancos de dados
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div>
+  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />      
+  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
+</div>
