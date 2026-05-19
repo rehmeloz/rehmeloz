@@ -20,6 +20,6 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-| C# | .NET Core | Git |
-|:---:|:---:|:---:|
-| <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> | <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> | <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> |
+| C# | .NET Core | Git | SQL Server |
+|:---:|:---:|:---:|:---:|
+| <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> | <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> | <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /> |
