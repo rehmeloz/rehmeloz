@@ -4,17 +4,9 @@
 ## 👋 Olá! Eu sou a Renata Melo  
 
 💻 **Desenvolvedora de Software | C#, .NET, EF Core, SQL Server e API Rest**  
-🚀 Aproximadamente **2 anos de experiência** com desenvolvimento de aplicações  
-🎯 Foco em back-end, APIs e boas práticas de código  
+🚀 Aproximadamente **2 anos de experiência** com desenvolvimento de aplicações web, APIs e bancos de dados
+🎯 Foco em back-end, APIs, arquitetura de software, clena code e boas práticas de código  
 📚 Sempre aprendendo e evoluindo na área de tecnologia  
-
----
-
-## 🧠 Sobre mim
-
-- 🔹 Desenvolvedora com experiência em **C#,.NET, JavaScript, HMTL, CSS, SQL Server e API Rest**
-- 🔹 Interesse em **arquitetura de software**, **clean code** e **boas práticas**
-- 🔹 Experiência com aplicações web, APIs e bancos de dados
 
 ---
 
