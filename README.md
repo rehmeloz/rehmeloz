@@ -7,7 +7,7 @@
 
 🚀 Aproximadamente **2 anos de experiência** com desenvolvimento de aplicações web, APIs e bancos de dados
 
-🎯 Foco em back-end, APIs, arquitetura de software, clena code e boas práticas de código  
+🎯 Foco em back-end, APIs, arquitetura de software, clean code e boas práticas de código  
 
 📚 Sempre aprendendo e evoluindo na área de tecnologia  
 
