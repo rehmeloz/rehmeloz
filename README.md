@@ -12,7 +12,7 @@
 
 ## 🧠 Sobre mim
 
-- 🔹 Desenvolvedora com experiência em **C#,.NET, SQL Server e API Rest**
+- 🔹 Desenvolvedora com experiência em **C#,.NET, JavaScript, HMTL, CSS, SQL Server e API Rest**
 - 🔹 Interesse em **arquitetura de software**, **clean code** e **boas práticas**
 - 🔹 Experiência com aplicações web, APIs e bancos de dados
 
